@@ -1,1 +1,6 @@
-# eco_meme
+# website with memes
+when someone joins my site he will be mmet with a meme screen of eco memes to influince them to help the enviorment.
+## technologies 
+-flask
+-sql alchemy
+-html/css
